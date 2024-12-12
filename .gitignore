@@ -7,7 +7,14 @@ mfcc/
 03gmm_hmm/exp/model_2state_1mix/
 03gmm_hmm/exp/model_2state_2mix/
 03gmm_hmm/exp/model_3state_1mix/
+03gmm_hmm/exp/model_3state_2mix/
 03gmm_hmm/exp/model_3state_4mix/
+03gmm_hmm/exp/model_4state_1mix/
+03gmm_hmm/exp/model_4state_2mix/
+03gmm_hmm/exp/model_4state_4mix/
+03gmm_hmm/exp/model_5state_1mix/
+03gmm_hmm/exp/model_5state_2mix/
+
 
 04dnn_hmm/exp/models/best_model_config.json
 
@@ -17,7 +24,6 @@ data/wav_test
 04dnn_hmm/exp/data/
 04dnn_hmm/exp/model_dnn/
 04dnn_hmm/exp/models/logs/
-03gmm_hmm/exp/
 03gmm_hmm/exp_val
 dnn_batch_original
 dnn_hmm_original

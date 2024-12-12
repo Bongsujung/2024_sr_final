@@ -1,0 +1,1050 @@
+test001 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test001.bin
+Result = backward
+test002 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test002.bin
+Result = backward
+test003 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test003.bin
+Result = backward
+test004 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test004.bin
+Result = backward
+test005 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test005.bin
+Result = backward
+test006 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test006.bin
+Result = backward
+test007 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test007.bin
+Result = wow
+test008 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test008.bin
+Result = backward
+test009 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test009.bin
+Result = backward
+test010 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test010.bin
+Result = backward
+test011 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test011.bin
+Result = backward
+test012 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test012.bin
+Result = backward
+test013 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test013.bin
+Result = backward
+test014 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test014.bin
+Result = backward
+test015 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test015.bin
+Result = zero
+test016 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test016.bin
+Result = seven
+test017 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test017.bin
+Result = bed
+test018 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test018.bin
+Result = eight
+test019 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test019.bin
+Result = bed
+test020 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test020.bin
+Result = up
+test021 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test021.bin
+Result = bed
+test022 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test022.bin
+Result = bed
+test023 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test023.bin
+Result = bed
+test024 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test024.bin
+Result = bed
+test025 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test025.bin
+Result = bed
+test026 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test026.bin
+Result = bed
+test027 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test027.bin
+Result = bed
+test028 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test028.bin
+Result = bed
+test029 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test029.bin
+Result = tree
+test030 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test030.bin
+Result = bed
+test031 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test031.bin
+Result = bird
+test032 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test032.bin
+Result = bird
+test033 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test033.bin
+Result = bird
+test034 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test034.bin
+Result = bird
+test035 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test035.bin
+Result = bird
+test036 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test036.bin
+Result = bird
+test037 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test037.bin
+Result = bird
+test038 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test038.bin
+Result = bird
+test039 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test039.bin
+Result = bird
+test040 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test040.bin
+Result = bird
+test041 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test041.bin
+Result = bird
+test042 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test042.bin
+Result = bird
+test043 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test043.bin
+Result = five
+test044 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test044.bin
+Result = forward
+test045 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test045.bin
+Result = bird
+test046 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test046.bin
+Result = cat
+test047 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test047.bin
+Result = cat
+test048 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test048.bin
+Result = cat
+test049 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test049.bin
+Result = cat
+test050 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test050.bin
+Result = cat
+test051 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test051.bin
+Result = up
+test052 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test052.bin
+Result = cat
+test053 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test053.bin
+Result = cat
+test054 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test054.bin
+Result = cat
+test055 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test055.bin
+Result = cat
+test056 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test056.bin
+Result = bed
+test057 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test057.bin
+Result = cat
+test058 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test058.bin
+Result = cat
+test059 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test059.bin
+Result = cat
+test060 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test060.bin
+Result = cat
+test061 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test061.bin
+Result = dog
+test062 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test062.bin
+Result = down
+test063 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test063.bin
+Result = dog
+test064 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test064.bin
+Result = down
+test065 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test065.bin
+Result = dog
+test066 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test066.bin
+Result = down
+test067 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test067.bin
+Result = down
+test068 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test068.bin
+Result = dog
+test069 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test069.bin
+Result = dog
+test070 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test070.bin
+Result = down
+test071 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test071.bin
+Result = down
+test072 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test072.bin
+Result = down
+test073 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test073.bin
+Result = no
+test074 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test074.bin
+Result = up
+test075 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test075.bin
+Result = up
+test076 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test076.bin
+Result = down
+test077 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test077.bin
+Result = five
+test078 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test078.bin
+Result = down
+test079 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test079.bin
+Result = down
+test080 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test080.bin
+Result = down
+test081 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test081.bin
+Result = down
+test082 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test082.bin
+Result = down
+test083 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test083.bin
+Result = down
+test084 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test084.bin
+Result = follow
+test085 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test085.bin
+Result = down
+test086 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test086.bin
+Result = zero
+test087 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test087.bin
+Result = down
+test088 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test088.bin
+Result = zero
+test089 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test089.bin
+Result = down
+test090 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test090.bin
+Result = down
+test091 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test091.bin
+Result = eight
+test092 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test092.bin
+Result = eight
+test093 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test093.bin
+Result = eight
+test094 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test094.bin
+Result = eight
+test095 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test095.bin
+Result = eight
+test096 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test096.bin
+Result = eight
+test097 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test097.bin
+Result = nine
+test098 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test098.bin
+Result = eight
+test099 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test099.bin
+Result = eight
+test100 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test100.bin
+Result = eight
+test101 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test101.bin
+Result = eight
+test102 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test102.bin
+Result = eight
+test103 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test103.bin
+Result = eight
+test104 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test104.bin
+Result = eight
+test105 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test105.bin
+Result = eight
+test106 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test106.bin
+Result = five
+test107 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test107.bin
+Result = five
+test108 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test108.bin
+Result = five
+test109 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test109.bin
+Result = five
+test110 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test110.bin
+Result = nine
+test111 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test111.bin
+Result = off
+test112 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test112.bin
+Result = four
+test113 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test113.bin
+Result = five
+test114 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test114.bin
+Result = five
+test115 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test115.bin
+Result = four
+test116 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test116.bin
+Result = five
+test117 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test117.bin
+Result = five
+test118 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test118.bin
+Result = five
+test119 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test119.bin
+Result = five
+test120 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test120.bin
+Result = five
+test121 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test121.bin
+Result = follow
+test122 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test122.bin
+Result = up
+test123 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test123.bin
+Result = follow
+test124 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test124.bin
+Result = four
+test125 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test125.bin
+Result = go
+test126 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test126.bin
+Result = backward
+test127 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test127.bin
+Result = five
+test128 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test128.bin
+Result = follow
+test129 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test129.bin
+Result = follow
+test130 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test130.bin
+Result = follow
+test131 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test131.bin
+Result = go
+test132 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test132.bin
+Result = follow
+test133 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test133.bin
+Result = follow
+test134 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test134.bin
+Result = off
+test135 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test135.bin
+Result = one
+test136 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test136.bin
+Result = four
+test137 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test137.bin
+Result = follow
+test138 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test138.bin
+Result = follow
+test139 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test139.bin
+Result = four
+test140 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test140.bin
+Result = forward
+test141 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test141.bin
+Result = forward
+test142 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test142.bin
+Result = four
+test143 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test143.bin
+Result = four
+test144 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test144.bin
+Result = one
+test145 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test145.bin
+Result = learn
+test146 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test146.bin
+Result = forward
+test147 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test147.bin
+Result = forward
+test148 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test148.bin
+Result = forward
+test149 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test149.bin
+Result = four
+test150 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test150.bin
+Result = forward
+test151 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test151.bin
+Result = forward
+test152 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test152.bin
+Result = one
+test153 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test153.bin
+Result = wow
+test154 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test154.bin
+Result = four
+test155 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test155.bin
+Result = one
+test156 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test156.bin
+Result = forward
+test157 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test157.bin
+Result = four
+test158 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test158.bin
+Result = four
+test159 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test159.bin
+Result = five
+test160 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test160.bin
+Result = off
+test161 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test161.bin
+Result = four
+test162 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test162.bin
+Result = four
+test163 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test163.bin
+Result = off
+test164 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test164.bin
+Result = up
+test165 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test165.bin
+Result = four
+test166 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test166.bin
+Result = go
+test167 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test167.bin
+Result = go
+test168 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test168.bin
+Result = go
+test169 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test169.bin
+Result = go
+test170 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test170.bin
+Result = go
+test171 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test171.bin
+Result = go
+test172 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test172.bin
+Result = go
+test173 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test173.bin
+Result = go
+test174 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test174.bin
+Result = go
+test175 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test175.bin
+Result = go
+test176 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test176.bin
+Result = two
+test177 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test177.bin
+Result = follow
+test178 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test178.bin
+Result = go
+test179 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test179.bin
+Result = go
+test180 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test180.bin
+Result = go
+test181 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test181.bin
+Result = happy
+test182 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test182.bin
+Result = happy
+test183 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test183.bin
+Result = happy
+test184 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test184.bin
+Result = happy
+test185 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test185.bin
+Result = wow
+test186 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test186.bin
+Result = happy
+test187 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test187.bin
+Result = happy
+test188 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test188.bin
+Result = happy
+test189 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test189.bin
+Result = happy
+test190 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test190.bin
+Result = happy
+test191 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test191.bin
+Result = house
+test192 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test192.bin
+Result = happy
+test193 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test193.bin
+Result = happy
+test194 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test194.bin
+Result = happy
+test195 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test195.bin
+Result = happy
+test196 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test196.bin
+Result = house
+test197 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test197.bin
+Result = house
+test198 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test198.bin
+Result = house
+test199 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test199.bin
+Result = up
+test200 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test200.bin
+Result = house
+test201 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test201.bin
+Result = off
+test202 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test202.bin
+Result = house
+test203 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test203.bin
+Result = house
+test204 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test204.bin
+Result = house
+test205 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test205.bin
+Result = house
+test206 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test206.bin
+Result = house
+test207 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test207.bin
+Result = house
+test208 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test208.bin
+Result = house
+test209 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test209.bin
+Result = house
+test210 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test210.bin
+Result = house
+test211 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test211.bin
+Result = nine
+test212 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test212.bin
+Result = up
+test213 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test213.bin
+Result = learn
+test214 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test214.bin
+Result = one
+test215 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test215.bin
+Result = down
+test216 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test216.bin
+Result = left
+test217 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test217.bin
+Result = one
+test218 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test218.bin
+Result = left
+test219 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test219.bin
+Result = learn
+test220 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test220.bin
+Result = two
+test221 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test221.bin
+Result = wow
+test222 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test222.bin
+Result = learn
+test223 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test223.bin
+Result = two
+test224 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test224.bin
+Result = down
+test225 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test225.bin
+Result = learn
+test226 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test226.bin
+Result = left
+test227 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test227.bin
+Result = left
+test228 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test228.bin
+Result = one
+test229 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test229.bin
+Result = one
+test230 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test230.bin
+Result = left
+test231 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test231.bin
+Result = left
+test232 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test232.bin
+Result = one
+test233 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test233.bin
+Result = yes
+test234 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test234.bin
+Result = left
+test235 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test235.bin
+Result = left
+test236 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test236.bin
+Result = left
+test237 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test237.bin
+Result = left
+test238 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test238.bin
+Result = learn
+test239 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test239.bin
+Result = left
+test240 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test240.bin
+Result = left
+test241 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test241.bin
+Result = marvin
+test242 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test242.bin
+Result = marvin
+test243 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test243.bin
+Result = up
+test244 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test244.bin
+Result = marvin
+test245 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test245.bin
+Result = marvin
+test246 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test246.bin
+Result = one
+test247 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test247.bin
+Result = marvin
+test248 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test248.bin
+Result = marvin
+test249 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test249.bin
+Result = marvin
+test250 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test250.bin
+Result = marvin
+test251 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test251.bin
+Result = marvin
+test252 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test252.bin
+Result = marvin
+test253 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test253.bin
+Result = marvin
+test254 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test254.bin
+Result = marvin
+test255 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test255.bin
+Result = forward
+test256 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test256.bin
+Result = nine
+test257 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test257.bin
+Result = nine
+test258 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test258.bin
+Result = one
+test259 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test259.bin
+Result = nine
+test260 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test260.bin
+Result = nine
+test261 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test261.bin
+Result = nine
+test262 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test262.bin
+Result = nine
+test263 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test263.bin
+Result = nine
+test264 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test264.bin
+Result = no
+test265 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test265.bin
+Result = nine
+test266 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test266.bin
+Result = nine
+test267 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test267.bin
+Result = nine
+test268 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test268.bin
+Result = nine
+test269 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test269.bin
+Result = nine
+test270 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test270.bin
+Result = nine
+test271 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test271.bin
+Result = no
+test272 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test272.bin
+Result = no
+test273 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test273.bin
+Result = no
+test274 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test274.bin
+Result = nine
+test275 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test275.bin
+Result = wow
+test276 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test276.bin
+Result = no
+test277 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test277.bin
+Result = no
+test278 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test278.bin
+Result = go
+test279 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test279.bin
+Result = no
+test280 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test280.bin
+Result = no
+test281 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test281.bin
+Result = no
+test282 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test282.bin
+Result = go
+test283 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test283.bin
+Result = no
+test284 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test284.bin
+Result = go
+test285 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test285.bin
+Result = bed
+test286 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test286.bin
+Result = up
+test287 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test287.bin
+Result = house
+test288 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test288.bin
+Result = four
+test289 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test289.bin
+Result = off
+test290 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test290.bin
+Result = off
+test291 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test291.bin
+Result = off
+test292 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test292.bin
+Result = off
+test293 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test293.bin
+Result = off
+test294 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test294.bin
+Result = off
+test295 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test295.bin
+Result = off
+test296 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test296.bin
+Result = off
+test297 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test297.bin
+Result = off
+test298 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test298.bin
+Result = no
+test299 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test299.bin
+Result = off
+test300 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test300.bin
+Result = off
+test301 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test301.bin
+Result = on
+test302 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test302.bin
+Result = on
+test303 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test303.bin
+Result = dog
+test304 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test304.bin
+Result = follow
+test305 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test305.bin
+Result = on
+test306 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test306.bin
+Result = on
+test307 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test307.bin
+Result = on
+test308 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test308.bin
+Result = one
+test309 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test309.bin
+Result = on
+test310 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test310.bin
+Result = on
+test311 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test311.bin
+Result = one
+test312 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test312.bin
+Result = wow
+test313 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test313.bin
+Result = on
+test314 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test314.bin
+Result = on
+test315 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test315.bin
+Result = on
+test316 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test316.bin
+Result = one
+test317 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test317.bin
+Result = one
+test318 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test318.bin
+Result = one
+test319 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test319.bin
+Result = one
+test320 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test320.bin
+Result = one
+test321 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test321.bin
+Result = one
+test322 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test322.bin
+Result = one
+test323 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test323.bin
+Result = one
+test324 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test324.bin
+Result = one
+test325 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test325.bin
+Result = one
+test326 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test326.bin
+Result = one
+test327 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test327.bin
+Result = one
+test328 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test328.bin
+Result = visual
+test329 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test329.bin
+Result = one
+test330 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test330.bin
+Result = one
+test331 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test331.bin
+Result = right
+test332 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test332.bin
+Result = right
+test333 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test333.bin
+Result = right
+test334 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test334.bin
+Result = right
+test335 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test335.bin
+Result = right
+test336 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test336.bin
+Result = right
+test337 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test337.bin
+Result = right
+test338 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test338.bin
+Result = right
+test339 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test339.bin
+Result = right
+test340 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test340.bin
+Result = right
+test341 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test341.bin
+Result = right
+test342 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test342.bin
+Result = right
+test343 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test343.bin
+Result = right
+test344 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test344.bin
+Result = right
+test345 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test345.bin
+Result = right
+test346 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test346.bin
+Result = seven
+test347 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test347.bin
+Result = down
+test348 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test348.bin
+Result = seven
+test349 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test349.bin
+Result = bed
+test350 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test350.bin
+Result = seven
+test351 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test351.bin
+Result = seven
+test352 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test352.bin
+Result = seven
+test353 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test353.bin
+Result = seven
+test354 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test354.bin
+Result = seven
+test355 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test355.bin
+Result = up
+test356 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test356.bin
+Result = bed
+test357 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test357.bin
+Result = seven
+test358 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test358.bin
+Result = seven
+test359 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test359.bin
+Result = seven
+test360 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test360.bin
+Result = seven
+test361 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test361.bin
+Result = sheila
+test362 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test362.bin
+Result = sheila
+test363 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test363.bin
+Result = sheila
+test364 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test364.bin
+Result = sheila
+test365 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test365.bin
+Result = sheila
+test366 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test366.bin
+Result = up
+test367 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test367.bin
+Result = sheila
+test368 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test368.bin
+Result = sheila
+test369 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test369.bin
+Result = seven
+test370 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test370.bin
+Result = sheila
+test371 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test371.bin
+Result = sheila
+test372 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test372.bin
+Result = sheila
+test373 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test373.bin
+Result = sheila
+test374 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test374.bin
+Result = sheila
+test375 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test375.bin
+Result = sheila
+test376 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test376.bin
+Result = one
+test377 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test377.bin
+Result = six
+test378 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test378.bin
+Result = six
+test379 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test379.bin
+Result = six
+test380 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test380.bin
+Result = six
+test381 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test381.bin
+Result = six
+test382 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test382.bin
+Result = bed
+test383 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test383.bin
+Result = six
+test384 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test384.bin
+Result = six
+test385 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test385.bin
+Result = six
+test386 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test386.bin
+Result = six
+test387 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test387.bin
+Result = six
+test388 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test388.bin
+Result = six
+test389 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test389.bin
+Result = six
+test390 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test390.bin
+Result = eight
+test391 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test391.bin
+Result = stop
+test392 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test392.bin
+Result = up
+test393 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test393.bin
+Result = stop
+test394 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test394.bin
+Result = stop
+test395 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test395.bin
+Result = stop
+test396 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test396.bin
+Result = stop
+test397 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test397.bin
+Result = stop
+test398 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test398.bin
+Result = stop
+test399 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test399.bin
+Result = stop
+test400 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test400.bin
+Result = two
+test401 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test401.bin
+Result = stop
+test402 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test402.bin
+Result = stop
+test403 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test403.bin
+Result = stop
+test404 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test404.bin
+Result = four
+test405 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test405.bin
+Result = off
+test406 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test406.bin
+Result = three
+test407 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test407.bin
+Result = three
+test408 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test408.bin
+Result = three
+test409 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test409.bin
+Result = three
+test410 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test410.bin
+Result = three
+test411 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test411.bin
+Result = eight
+test412 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test412.bin
+Result = three
+test413 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test413.bin
+Result = three
+test414 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test414.bin
+Result = three
+test415 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test415.bin
+Result = three
+test416 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test416.bin
+Result = happy
+test417 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test417.bin
+Result = three
+test418 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test418.bin
+Result = three
+test419 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test419.bin
+Result = three
+test420 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test420.bin
+Result = tree
+test421 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test421.bin
+Result = tree
+test422 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test422.bin
+Result = happy
+test423 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test423.bin
+Result = three
+test424 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test424.bin
+Result = tree
+test425 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test425.bin
+Result = tree
+test426 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test426.bin
+Result = three
+test427 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test427.bin
+Result = tree
+test428 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test428.bin
+Result = tree
+test429 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test429.bin
+Result = tree
+test430 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test430.bin
+Result = sheila
+test431 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test431.bin
+Result = three
+test432 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test432.bin
+Result = tree
+test433 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test433.bin
+Result = down
+test434 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test434.bin
+Result = tree
+test435 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test435.bin
+Result = three
+test436 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test436.bin
+Result = up
+test437 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test437.bin
+Result = two
+test438 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test438.bin
+Result = follow
+test439 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test439.bin
+Result = two
+test440 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test440.bin
+Result = two
+test441 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test441.bin
+Result = two
+test442 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test442.bin
+Result = two
+test443 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test443.bin
+Result = on
+test444 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test444.bin
+Result = two
+test445 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test445.bin
+Result = six
+test446 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test446.bin
+Result = two
+test447 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test447.bin
+Result = two
+test448 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test448.bin
+Result = two
+test449 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test449.bin
+Result = two
+test450 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test450.bin
+Result = two
+test451 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test451.bin
+Result = stop
+test452 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test452.bin
+Result = four
+test453 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test453.bin
+Result = up
+test454 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test454.bin
+Result = up
+test455 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test455.bin
+Result = off
+test456 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test456.bin
+Result = up
+test457 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test457.bin
+Result = up
+test458 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test458.bin
+Result = up
+test459 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test459.bin
+Result = learn
+test460 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test460.bin
+Result = go
+test461 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test461.bin
+Result = up
+test462 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test462.bin
+Result = up
+test463 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test463.bin
+Result = on
+test464 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test464.bin
+Result = up
+test465 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test465.bin
+Result = up
+test466 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test466.bin
+Result = tree
+test467 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test467.bin
+Result = visual
+test468 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test468.bin
+Result = visual
+test469 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test469.bin
+Result = visual
+test470 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test470.bin
+Result = visual
+test471 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test471.bin
+Result = zero
+test472 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test472.bin
+Result = zero
+test473 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test473.bin
+Result = visual
+test474 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test474.bin
+Result = visual
+test475 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test475.bin
+Result = visual
+test476 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test476.bin
+Result = learn
+test477 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test477.bin
+Result = six
+test478 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test478.bin
+Result = visual
+test479 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test479.bin
+Result = visual
+test480 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test480.bin
+Result = sheila
+test481 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test481.bin
+Result = wow
+test482 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test482.bin
+Result = wow
+test483 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test483.bin
+Result = one
+test484 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test484.bin
+Result = wow
+test485 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test485.bin
+Result = wow
+test486 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test486.bin
+Result = wow
+test487 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test487.bin
+Result = wow
+test488 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test488.bin
+Result = wow
+test489 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test489.bin
+Result = wow
+test490 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test490.bin
+Result = wow
+test491 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test491.bin
+Result = up
+test492 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test492.bin
+Result = wow
+test493 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test493.bin
+Result = no
+test494 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test494.bin
+Result = up
+test495 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test495.bin
+Result = wow
+test496 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test496.bin
+Result = yes
+test497 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test497.bin
+Result = yes
+test498 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test498.bin
+Result = yes
+test499 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test499.bin
+Result = yes
+test500 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test500.bin
+Result = yes
+test501 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test501.bin
+Result = yes
+test502 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test502.bin
+Result = yes
+test503 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test503.bin
+Result = yes
+test504 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test504.bin
+Result = yes
+test505 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test505.bin
+Result = yes
+test506 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test506.bin
+Result = yes
+test507 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test507.bin
+Result = yes
+test508 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test508.bin
+Result = yes
+test509 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test509.bin
+Result = yes
+test510 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test510.bin
+Result = left
+test511 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test511.bin
+Result = zero
+test512 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test512.bin
+Result = zero
+test513 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test513.bin
+Result = zero
+test514 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test514.bin
+Result = zero
+test515 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test515.bin
+Result = zero
+test516 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test516.bin
+Result = zero
+test517 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test517.bin
+Result = zero
+test518 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test518.bin
+Result = zero
+test519 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test519.bin
+Result = zero
+test520 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test520.bin
+Result = zero
+test521 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test521.bin
+Result = zero
+test522 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test522.bin
+Result = zero
+test523 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test523.bin
+Result = zero
+test524 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test524.bin
+Result = zero
+test525 /media/SR_WAR/bjasr_sc/01compute_features/mfcc_delta/test/test525.bin
+Result = zero
