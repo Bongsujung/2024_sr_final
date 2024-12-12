@@ -1,0 +1,16 @@
+{
+    "dim_in": 273,
+    "dim_hidden": 546,
+    "dim_out": 120,
+    "num_layers": 5,
+    "dropout_rate": 0,
+    "batch_size": 8,
+    "max_num_epoch": 60,
+    "initial_learning_rate": 0.01,
+    "warmup_steps": 39685,
+    "decay_steps": 264572,
+    "decay_rate": 0.96,
+    "min_learning_rate": 0.0001,
+    "early_stop_threshold": 7,
+    "optimizer_type": "sgd"
+}

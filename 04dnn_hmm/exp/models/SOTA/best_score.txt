@@ -1,0 +1,6 @@
+============ Results Analysis ============
+Test: ./exp/test/result_dnn.txt
+True: ../data/label/test/test_label.txt
+Accuracy: 92.38%
+Hits: 485, Total: 525
+==========================================
