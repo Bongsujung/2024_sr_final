@@ -240,7 +240,7 @@ if __name__ == "__main__":
     config_path = "./exp/models/SOTA/best_model_config" 
     hmm_file = "./exp/models/SOTA/20.hmm"
     count_file = "./exp/models/SOTA/state_counts_large"
-    mean_std_file = "../01compute_features/mfcc_delta/train/mean_std.txt"
+    mean_std_file = "./exp/models/SOTA/mean_std.txt"
     lexicon_file = "../03gmm_hmm/sc35.dic"
     phone_list_file = "../03gmm_hmm/exp/data/train_large/phone_list"
     feat_scp = "../01compute_features/mfcc_delta/test/feats.scp"
