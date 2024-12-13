@@ -15,7 +15,7 @@ python3 eval.py
 ---
 
 ## 🌟 DNN-HMM (Hybrid System) NumPy로만 구현하기
-
+## BASE CODE : https://github.com/bjpublic/python_speech_recognition
 ---
 
 ### 📖 프로젝트 개요
