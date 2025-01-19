@@ -2,7 +2,7 @@
 
 ### 정봉수 - 김동희 팀
 
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/gimdonghui/Documents/INU/4-2/Intro_to_ASR/test/data/image.png?version%3D1737274808231)
+![alt text](./data/image.png?version%3D1737274808231)
 
 ---
 
