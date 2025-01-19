@@ -20,6 +20,7 @@ mfcc/
 
 data/wav
 data/wav_test
+data/image.png
 
 04dnn_hmm/exp/data/
 04dnn_hmm/exp/model_dnn/
