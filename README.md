@@ -2,6 +2,8 @@
 
 ### 정봉수 - 김동희 팀
 
+![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/gimdonghui/Documents/INU/4-2/Intro_to_ASR/test/data/image.png?version%3D1737274808231)
+
 ---
 
 ## 🚀 실행 방법
@@ -15,7 +17,9 @@ python3 eval.py
 ---
 
 ## 🌟 DNN-HMM (Hybrid System) NumPy로만 구현하기
+
 ## BASE CODE : https://github.com/bjpublic/python_speech_recognition
+
 ---
 
 ### 📖 프로젝트 개요
